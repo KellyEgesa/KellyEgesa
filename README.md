@@ -11,6 +11,15 @@
 <a href="mailto:kelly.egesa@gmail.com">
   <img align="left" alt="Kelly's LinkedIN" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=kellyegesa.kellyegesa)
+
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=kellyegesa.kellyegesa) -->
+
 <br>
 <hr>
+
+I am a Mobile (Android) and Javascript Developer from Nairobi, Kenya looking forward to build tools that will help out in the world.
+
+<br>
+My passion for software lies with transforming ideas into Applications with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+<br>
