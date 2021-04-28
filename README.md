@@ -12,7 +12,7 @@
   <img align="left" alt="Kelly's LinkedIN" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=kellyegesa.kellyegesa) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kellyegesa.kellyegesa)
 
 <hr>
 
