@@ -17,6 +17,8 @@
 <br>
 <hr>
 
+<img align="right" alt="GIF" src="./assets/code.gif" width="500" height="320" />
+
 I am a Mobile (Android) and Javascript Developer from Nairobi, Kenya looking forward to build tools that will help out in the world.
 
 <br>
