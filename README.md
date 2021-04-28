@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, I am [Kelly Egesa!](https://kellyegesa.github.io/portfolio/)
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, I am [Kelly Egesa 🚀 ](https://kellyegesa.github.io/portfolio/)
 
 <a href="https://twitter.com/K_Egesa">
   <img align="left" alt="Kelly Egesa | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -12,16 +12,17 @@
   <img align="left" alt="Kelly's LinkedIN" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=kellyegesa.kellyegesa) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kellyegesa.kellyegesa)
 
 <br>
 <hr>
 
 <img align="right" alt="GIF" src="./assets/code.gif" width="375" height="240" />
 
-I am a Mobile (Android) and Javascript Developer from Nairobi, Kenya looking forward to build tools that will help out in the world.
+I am a Mobile (Android) and Javascript Developer from Nairobi Kenya 🇰🇪, looking forward to build tools 🛠️ that will help out in the world 🌍.
+
 <br>
-My passion for software lies with transforming ideas into Applications with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+My passion for software lies with transforming ideas into Applications with elegant interfaces. I take great care in the experience, architecture, and code quality 🖥️ of the things I build.
 
 **Languages and Tools:**
 
@@ -40,3 +41,5 @@ My passion for software lies with transforming ideas into Applications with eleg
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+![Kelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=kellyegesa&show_icons=true&theme=slateorange)
