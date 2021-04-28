@@ -14,7 +14,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kellyegesa.kellyegesa)
 
-<br>
 <hr>
 
 <img align="right" alt="GIF" src="./assets/code.gif" width="375" height="240" />
