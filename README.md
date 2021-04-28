@@ -41,4 +41,6 @@ My passion for software lies with transforming ideas into Applications with eleg
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kellyegesa&show_icons=true&theme=slateorange" alt="abhisheknaiidu" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellyegesa&layout=compact&theme=slateorange" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kellyegesa&show_icons=true&theme=slateorange" alt="abhisheknaiidu" />
+<br>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellyegesa&layout=compact&theme=slateorange" alt="abhisheknaiidu" />
