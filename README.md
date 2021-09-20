@@ -18,7 +18,7 @@
 
 <img align="right" alt="GIF" src="./assets/code.gif" width="375" height="240" />
 
-I am a Mobile (Android) and Javascript Developer from Nairobi Kenya 🇰🇪, looking forward to build tools 🛠️ that will help out in the world 🌍.
+I am a Mobile (Android), Cross-Platform(Flutter) and Javascript Developer from Nairobi Kenya 🇰🇪, looking forward to build tools 🛠️ that will help out in the world 🌍.
 
 <br>
 My passion for software lies with transforming ideas into Applications with elegant interfaces. I take great care in the experience, architecture, and code quality 🖥️ of the things I build.<br>
@@ -40,6 +40,8 @@ My passion for software lies with transforming ideas into Applications with eleg
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kellyegesa&show_icons=true&theme=slateorange" alt="abhisheknaiidu" />
 <br>
