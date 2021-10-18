@@ -45,4 +45,3 @@ My passion for software lies with transforming ideas into Applications with eleg
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kellyegesa&show_icons=true&theme=slateorange" alt="abhisheknaiidu" />
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellyegesa&layout=compact&theme=slateorange" alt="abhisheknaiidu" />
