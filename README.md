@@ -19,7 +19,6 @@
 <img align="right" alt="GIF" src="./assets/code.gif" width="375" height="240" />
 
 I am a Software Engineer from Nairobi Kenya 🇰🇪, building tools 🛠️ that help the world 🌍.
-
 <br>
 My passion for software lies with transforming ideas into Applications with elegant interfaces. I take great care in the experience, architecture, and code quality 🖥️ of the things I build.<br>
 
