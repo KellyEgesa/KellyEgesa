@@ -16,7 +16,4 @@
 
 <hr>
 
-<img align="right" alt="GIF" src="./assets/code.gif" width="375" height="240" />
-
-I am a Software Engineer from Nairobi Kenya 🇰🇪, building tools 🛠️ that help the world 🌍.
 <br>
